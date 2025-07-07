@@ -3,12 +3,14 @@
 
 # 🏠 Floor Plan AI: About the Project
 
+## HOW TO INSTALL
+  git clone 
 ## 🚀 Inspiration
 The inspiration for this project came from observing the time-consuming and costly process of designing residential floor plans in public housing systems, particularly at the **Kano State Housing Corporation**. I wanted to explore how **Artificial Intelligence** could simplify architectural planning by automatically generating floor layouts based on natural language instructions.
 
 ## 🧠 What I Learned
 Through this project, I deepened my understanding of:
-- **Natural Language Processing (NLP)** with `DistilBERT`
+- **Natural Language Processing (NLPgit)** with `DistilBERT`
 - **Supervised fine-tuning** for classification tasks
 - **PyTorch and Transformers** for training custom AI models
 - **Matplotlib** for drawing 2D architectural plans
