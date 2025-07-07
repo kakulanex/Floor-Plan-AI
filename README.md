@@ -4,7 +4,12 @@
 # 🏠 Floor Plan AI: About the Project
 
 ## HOW TO INSTALL
-  git clone 
+
+ - git clone https://github.com/kakulanex/Floor-Plan-AI.git
+ - cd Floor-Plan-AI
+ - pip install requirements.txt
+ - python Floor-Plan-AI.py
+  
 ## 🚀 Inspiration
 The inspiration for this project came from observing the time-consuming and costly process of designing residential floor plans in public housing systems, particularly at the **Kano State Housing Corporation**. I wanted to explore how **Artificial Intelligence** could simplify architectural planning by automatically generating floor layouts based on natural language instructions.
 
