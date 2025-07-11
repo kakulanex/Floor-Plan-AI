@@ -8,7 +8,7 @@
 
  - git clone https://github.com/kakulanex/Floor-Plan-AI.git
  - cd Floor-Plan-AI
- - pip install requirements.txt
+ - pip install -r requirements.txt
  - python Floor-Plan-AI.py
   
 ## 🚀 Inspiration
